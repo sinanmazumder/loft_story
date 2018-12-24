@@ -1,0 +1,74 @@
+@media (max-width: 1199.98px) {
+    .heading .navbar-nav .nav-link{
+        margin-left: 65px;
+    }
+    .stories .owl-item > div{
+        margin: 5% 11%;
+    }
+}
+
+
+@media (max-width: 1070px) {}
+
+
+
+@media (max-width: 991.98px) {
+
+    .banner .item{
+        background-size: cover;
+    }
+    .blog .content img {
+        width: 100%;
+    }
+    .book,.spain{
+        height: auto;
+    }
+    .stories .owl-item > div{
+        margin: 10% 15%;
+    }
+    
+
+}
+
+
+
+@media (max-width: 767.98px) {
+    .character .content img {
+        width: 100%;
+    }
+    .stories .owl-item > div {
+        margin: 12% 20%;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .voice .content{
+        padding: 152px 0;
+    }
+    .voice .content p{
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .stories .owl-item > div {
+        margin: 15% 25%;
+    }
+}
+
+
+@media (max-width: 400px){
+   .footer ul li {
+        float: inherit;
+        margin: 8px 0px;
+    }
+    .footer ul.social li{
+        float: left !important;
+        margin: 0 8px;
+        
+    }
+}
+
+
+@media (max-width: 318.98px){
+    
+}
+
