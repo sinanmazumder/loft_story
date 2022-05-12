@@ -50,7 +50,7 @@ button:focus {
 
 section {
     position: relative;
-    overflow: visible;
+    overflow: hidden;
 }
 
 .fixed-top {
